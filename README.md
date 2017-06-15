@@ -95,4 +95,14 @@ URL即图片的url地址，如果引用本仓库中的图片，直接使用相�
 
 #### 图片链接
 
-[![baidu](http://www.baidu.com/img/bdlogo.gif "悬浮显示：百度logo")](http://www.baidu.com)
+    [![baidu](http://www.baidu.com/img/bdlogo.gif "悬浮显示：点击进入百度页面")](http://www.baidu.com)
+    [![baidu](http://www.baidu.com/img/bdlogo.gif)](http://www.baidu.com  "悬浮显示：点击进入百度页面")
+
+[![baidu](http://www.baidu.com/img/bdlogo.gif "悬浮显示：点击进入百度页面")](http://www.baidu.com)
+
+[![baidu](http://www.baidu.com/img/bdlogo.gif)](http://www.baidu.com  "悬浮显示：点击进入百度页面")
+
+
+
+
+
