@@ -77,7 +77,18 @@ URL即图片的url地址，如果引用本仓库中的图片，直接使用相�
 
     ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
     
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![baidu](http://www.baidu.com/img/bdlogo.gif "悬浮显示：百度logo")
+
+
+#### 链接
+    [alt](URL title)
+    例如：
+    [百度](http://www.baidu.com "悬浮显示：百度地址")
+    alt：显示文字
+    url：跳转网址
+    title：悬浮文字
+    
+[百度](http://www.baidu.com "悬浮显示：百度地址")
 
 
     
