@@ -219,4 +219,5 @@ URL即图片的url地址，如果引用本仓库中的图片，直接使用相�
 #### 表情
     Github的Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情。
     比如:blush:，可以显示😊。
-    具体每一个表情的符号码，可以查询GitHub的官方网页http://www.emoji-cheat-sheet.com。
+    具体每一个表情的符号码，可以查询GitHub的官方网页
+[http://www.emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)
